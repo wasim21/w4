@@ -1,0 +1,23 @@
+section {
+    background-color: #ffcccb;
+    color: #800000;
+    padding: 40px;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #b30000;
+}
+
+form label {
+    display: block;
+    margin: 8px 0;
+}
+
+form input, form textarea {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #b30000;
+    border-radius: 4px;
+}

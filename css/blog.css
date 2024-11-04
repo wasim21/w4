@@ -1,0 +1,16 @@
+section {
+    background-color: #f0f8ff;
+    color: #00264d;
+    padding: 40px;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #001a33;
+}
+
+.article {
+    border-bottom: 1px solid #00264d;
+    padding: 10px 0;
+    margin: 10px 0;
+}

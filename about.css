@@ -1,0 +1,15 @@
+section {
+    background-color: #e6f7ff;
+    color: #005580;
+    padding: 40px;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #00334d;
+}
+
+section p {
+    font-size: 18px;
+    line-height: 1.6;
+}
